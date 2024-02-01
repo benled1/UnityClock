@@ -1073,7 +1073,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalPosition: {x: 0, y: 0.12, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1140,6 +1140,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a170b5490c58cca4db03909c2fa8fdc8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  hoursPivot: {fileID: 318018193}
+  minutesPivot: {fileID: 1432425412}
+  secondsPivot: {fileID: 1999720383}
 --- !u!1 &1257798218
 GameObject:
   m_ObjectHideFlags: 0
